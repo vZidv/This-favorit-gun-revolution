@@ -1,8 +1,8 @@
 # 🎮 This is favorite gun
 
-[![Платформы](https://img.shields.io/badge/-Windows%20|%20Linux%20|%20macOS%20|%20Android-blue?style=flat)](https://github.com/yourusername/primitive-neon/releases)
+[![Платформы](https://img.shields.io/badge/-Windows%20|%20Linux%20|%20macOS%20|%20Android-blue?style=flat)](https://github.com/vZidv/This-favorit-gun-revolution/releases)
 [![Лицензия](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Статус](https://img.shields.io/badge/Статус-Завершён-success)](https://github.com/yourusername/primitive-neon)
+[![Статус](https://img.shields.io/badge/Статус-Завершён-success)](https://github.com/vZidv/This-favorit-gun-revolution)
  
 
 
@@ -45,12 +45,15 @@
 
 ## ⚙️ Установка
 ### Мобильные устройства (Android):
-1. Скачайте [APK-файл](https://github.com/yourusername/primitive-neon/releases/latest).
+1. Скачайте [APK-файл](https://github.com/vZidv/This-favorit-gun-revolution/releases/tag/06.02.2025Android).
 2. Установите и запустите!
 
 ### ПК (Windows/Linux/macOS):
-1. Перейдите в [релизы](https://github.com/yourusername/primitive-neon/releases).
+1. Перейдите в [релизы](https://github.com/vZidv/This-favorit-gun-revolution/releases).
 2. Выберите версию для вашей ОС.
+  - [Windows](https://github.com/vZidv/This-favorit-gun-revolution/releases/tag/06.02.2025)
+  - [Linux](https://github.com/vZidv/This-favorit-gun-revolution/releases/tag/06.02.2025Linux)
+  - [macOS](https://github.com/vZidv/This-favorit-gun-revolution/releases/tag/06.02.2025macOS)
 3. Скачайте, распакуйте и запустите `This is favorite gun`.
 
 ## 🛠 Технологии
