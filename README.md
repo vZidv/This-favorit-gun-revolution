@@ -42,7 +42,13 @@
   - Исследуйте комнаты с врагами, аптечками и секретами.
   - Зарабатывайте монеты для покупки косметики.
   - Выживайте как можно дольше — ваше здоровье не восстанавливается автоматически!
+<p align="center">
+  <img  src="assets/images/Screanshot2.png.png" align="center">
+  <img  src="assets/images/Screanshot1.png" align="center">
+  <img  src="assets/images/Screanshot3.png.png" align="center">
+  <img  src="assets/images/Guns_ScreanShot.png" align="center">
 
+</p>
 ## ⚙️ Установка
 ### Мобильные устройства (Android):
 1. Скачайте [APK-файл](https://github.com/vZidv/This-favorit-gun-revolution/releases/tag/06.02.2025Android).
